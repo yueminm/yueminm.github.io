@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D student @ <a href='https://www.ri.cmu.edu/'>CMU RI</a>
 
 profile:
   align: right
