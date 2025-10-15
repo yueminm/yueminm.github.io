@@ -1,34 +1,67 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"mason":
+  - firstname: ["Matt", "Matthew", "Matthew T.", "M. T."]
+    url: https://mtmason.com/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"ichnowski":
+  - firstname: ["Jeffrey"]
+    url: https://ichnow.ski/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"yoo":
+  - firstname: ["Uksang"]
+    url: https://uksangyoo.github.io/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"francis":
+  - firstname: ["Jonathan", "Jon"]
+    url: https://jonfranc.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"bondi":
+  - firstname: ["Luca"]
+    url: https://scholar.google.com/citations?user=fWhDIgQAAAAJ&hl=it
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"oh":
+  - firstname: ["Jean"]
+    url: https://www.cs.cmu.edu/~jeanoh/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"yao":
+  - firstname: ["Yunchao"]
+    url: https://scholar.google.com/citations?user=KSKW_J4AAAAJ&hl=en
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"syed":
+  - firstname: ["Shahram", "Shahram Najam"]
+    url: https://shahramnajamsyed.com/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"duisterhof":
+  - firstname: ["Bardienus", "Bardienus P.", "Bart", "Bart P."]
+    url: https://www.bart-ai.com/
+
+"lee":
+  - firstname: ["Moonyoung", "Mark"]
+    url: https://markmlee.github.io/
+
+"cheng":
+  - firstname: ["Xianyi"]
+    url: https://xianyicheng.github.io/
+
+"bhatia":
+  - firstname: ["Ankit"]
+    url: https://scholar.google.com/citations?user=AtfVA6wAAAAJ&hl=en
+
+"huang":
+  - firstname: ["Eric"]
+    url: https://scholar.google.com/citations?user=XWhbLooAAAAJ&hl=en
+
+"gupta":
+  - firstname: ["Arnav"]
+    url: https://www.linkedin.com/in/agupta113
+
+"king":
+  - firstname: ["Jonathan"]
+    url: https://scholar.google.com/citations?user=eLP3CTUAAAAJ&hl=en
+
+"hou":
+  - firstname: ["Yifan"]
+    url: https://yifan-hou.github.io/
+
+"teng":
+  - firstname: ["Si Heng"]
+    url: https://www.linkedin.com/in/siheng-teng/
