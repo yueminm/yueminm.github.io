@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-7-20
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I presented our work on <a href="https://fast-non-prehensile.github.io/">leveraging contact microphones to learn constraints for fast non-prehensile transport</a> at CASE 2025.
