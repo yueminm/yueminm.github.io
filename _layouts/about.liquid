@@ -42,7 +42,13 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+    <div class="clearfix">
+      {{ content }}
+      <!-- Social icons after introduction -->
+      <div class="contact-icons" style="margin-top: 1rem;">
+        {% include social_intro.liquid %}
+      </div>
+    </div>
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
