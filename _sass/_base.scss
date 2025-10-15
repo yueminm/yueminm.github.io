@@ -1310,3 +1310,17 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// News section
+.news {
+  table {
+    th {
+      padding-right: 0.5rem !important; // Reduce spacing between date and text
+      vertical-align: top;
+    }
+    
+    td {
+      padding-left: 0.5rem !important; // Reduce left padding on text column
+    }
+  }
+}
