@@ -43,16 +43,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-started-my-ph-d-study-at-the-robotics-institute-carnegie-mellon-university",
+          title: 'I started my Ph.D study at the Robotics Institute, Carnegie Mellon University',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-work-on-nerfs-for-transparent-objects-was-accepted-to-icra-2024",
+          title: 'Our work on NeRFs for transparent objects was accepted to ICRA 2024.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-presented-our-work-on-leveraging-contact-microphones-to-learn-constraints-for-fast-non-prehensile-transport-at-case-2025",
+          title: 'I presented our work on leveraging contact microphones to learn constraints for fast...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
