@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my Ph.D study at the <a href="https://www.ri.cmu.edu/">Robotics Institute</a>, Carnegie Mellon University
+Started my Ph.D study at the <a href="https://www.ri.cmu.edu/">Robotics Institute</a>, Carnegie Mellon University
