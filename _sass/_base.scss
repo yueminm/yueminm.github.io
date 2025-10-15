@@ -1315,12 +1315,13 @@ ninja-keys::part(ninja-input-wrapper) {
 .news {
   table {
     th {
-      padding-right: 0.5rem !important; // Reduce spacing between date and text
+      padding-right: 0.2rem !important; // Much less spacing between date and text
       vertical-align: top;
+      width: 15% !important; // Reduce date column width from 20% to 15%
     }
     
     td {
-      padding-left: 0.5rem !important; // Reduce left padding on text column
+      padding-left: 0.2rem !important; // Much less left padding on text column
     }
   }
 }
