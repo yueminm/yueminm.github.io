@@ -1,16 +1,19 @@
 {% if site.email %}
-  <a href="mailto:{{ site.email | encode_email }}" style="font-size: 3em;" title="email"><i class="fa-solid fa-envelope"></i></a>
+  <a href="mailto:{{ site.email | encode_email }}" style="font-size: 2.5em; margin-right: 0.5em;" title="email"><i class="fa-solid fa-envelope"></i></a>
 {% endif %}
 {% if site.scholar_userid %}
-  <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" style="font-size: 3em;" title="Google Scholar"
+  <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" style="font-size: 2.5em; margin-right: 0.5em;" title="Google Scholar"
     ><i class="ai ai-google-scholar"></i
   ></a>
 {% endif %}
+{% if site.x_username %}
+  <a href="https://twitter.com/{{ site.x_username }}" style="font-size: 2.5em; margin-right: 0.5em;" title="X"><i class="fa-brands fa-x-twitter"></i></a>
+{% endif %}
+{% if site.bluesky_url %}
+  <a href="https://bsky.app/profile/{{ site.bluesky_url }}" style="font-size: 2.5em; margin-right: 0.5em;" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
+{% endif %}
 {% if site.linkedin_username %}
-  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" style="font-size: 3em;" title="LinkedIn"
+  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" style="font-size: 2.5em;" title="LinkedIn"
     ><i class="fa-brands fa-linkedin"></i
   ></a>
-{% endif %}
-{% if site.x_username %}
-  <a href="https://twitter.com/{{ site.x_username }}" style="font-size: 3em;" title="X"><i class="fa-brands fa-x-twitter"></i></a>
 {% endif %}
