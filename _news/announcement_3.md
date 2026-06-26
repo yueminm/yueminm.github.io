@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented our work on <a href="https://fast-non-prehensile.github.io/">leveraging contact microphones to learn constraints for fast non-prehensile transport</a> at CASE 2025.
+Presented our work on <a href="https://fast-non-prehensile.github.io/">learning non-prehensile manipulation constraints with acoustic sensing</a> at CASE 2025.
