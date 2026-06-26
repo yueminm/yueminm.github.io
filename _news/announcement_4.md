@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-7-20
+date: 2026-6-16
 inline: true
 related_posts: false
 ---
 
-Presented our work on <a href="https://fast-non-prehensile.github.io/">leveraging contact microphones to learn constraints for fast non-prehensile transport</a> at CASE 2025.
+<a href="https://a-slip.github.io/">A-SLIP</a>, our work on estimating continuous in-hand slip with acoustic sensing  was accepted to IROS 2026! 🎉
